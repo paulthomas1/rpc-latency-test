@@ -1,0 +1,23 @@
+{
+  "name": "rpc-latency-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "latency.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulthomas1/rpc-latency-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulthomas1/rpc-latency-test/issues"
+  },
+  "homepage": "https://github.com/paulthomas1/rpc-latency-test#readme",
+  "dependencies": {
+    "ethers": "^6.13.5"
+  }
+}
